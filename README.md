@@ -76,4 +76,4 @@ This project showcases end-to-end ML workflow using real scientific data, demons
 ---
 
 ## 📄 Medium Article
-👉 [Link to the detailed write-up](#coming-soon)
+👉 (#coming-soon)
