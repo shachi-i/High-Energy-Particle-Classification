@@ -1,5 +1,5 @@
 
-# Lepton Classification with Machine Learning 
+# High Energy Particle Classification with Machine Learning 
 
 This project focuses on classifying high-energy forward leptons using particle physics data from CERN's ATLAS detector. We transform ROOT-format physics data into machine learning-ready CSVs, perform extensive preprocessing and feature engineering, and train classifiers to detect high-energy forward leptons.
 
